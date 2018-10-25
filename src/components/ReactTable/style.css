@@ -1,0 +1,13 @@
+.ReactTable .rt-thead [role="columnheader"] {
+  outline: 0;
+}
+.sort-icons{
+    color: rgba(50, 50, 124, 0.63);
+    margin-left: 10px;
+}
+.table-title-column{
+  text-align: left;
+}
+.table-id-column{
+  max-width: 100px;
+}
